@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ikennaezef/huddle-landing/)
-- Live Site URL: [Add live site URL here](https://ikennaezef.github.io/huddle-landing)
+- Solution URL: [Code on GitHub](https://github.com/ikennaezef/huddle-landing/)
+- Live Site URL: [Live site](https://ikennaezef-huddle-landing.netlify.app/)
 
 ## My process
 
